@@ -1,0 +1,32 @@
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: rgb(15, 136, 96);
+
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: blueviolet;
+}
+
+button {
+    padding: 10px;
+    background-color: black;
+    color: aliceblue;
+    text-transform: uppercase;
+}
+
+.firstPara {
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+}
+
+.secondPara {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(145, 84, 15);
+
+}
